@@ -11,6 +11,17 @@ redirect_from:
 Who am I?
 ==
 
+I had joined the OYO Corporation and Research Institute of Innovative Technology for the Earth (RITE) in Japan as a research geophysicist in Distributed Acoustic Sensing (DAS) array for seismic monitoring in Chiba, Japan. 
+
+In the past, I had been working for Gundih CCS Pilot Project on rock physics analysis, time-lapse seismic with NORSAR, and geomechanical modeling for CCS monitoring. This project is coordinated by ITB in partnership with SKK Migas, Pertamina EP, and ADB. I had the opportunity to extend this project when working with a team of researchers in FGI in Tokyo, Japan. I had publications on CCS in 2 international conferences. 
+
+I led a team of 4 students to participate in the Minus CO2 Challenge organized by Equinor ASA and EAGE in London where we worked on seismic interpretation for a zero-net CO2 emission Plan of Development (PoD) in Norne Field, North Sea. Our team successfully achieved as 9 Global Best Team. 
+
+When in college, I was honored to receive 2 prestigious campus awards for outstanding students consecutively in 2018 and 2019, and also awarded as the Most Outstanding Student in my geophysics department in ITB. I interned in Pertamina EP where I worked on seismic fault interpretation for an EOR waterflooding project in Jirak Field, South Sumatra. 
+
+Recently, I've been teaching many Python Data Science courses to >1,000 students and professionals in the E&P domain since 2020. These courses were taught in collaboration with Marietta College (Ohio, US) and SPE chapters in Nigeria, Malaysia, UAE, and Indonesia. I have been working on open-source Python programs for geoscience, reservoir engineering, and ML/AI utilizing open field datasets. 
+
+<!--
 # Hello
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
@@ -53,3 +64,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
