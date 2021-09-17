@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who Am I?"
+title: "Portfolio Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello
+Who am I?
 ==
 
 # Hello
