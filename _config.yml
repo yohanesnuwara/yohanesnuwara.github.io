@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "YOHANES NUWARA"
   avatar           : "profile.png"
-  bio              : "Research Geophysicist at OYO Corp. and RITE Japan"
+  bio              : "Research Geophysicist"
   location         : "Jakarta, Indonesia"
-  employer         :
+  employer         : "OYO Corp. and RITE Japan"
   pubmed           : 
   googlescholar    : 
-  email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yohanes-Nuwara"
+  email            : "ign.nuwara97@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Yohanes-Nuwara"
   uri              :
-  bitbucket        :
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
@@ -103,17 +103,17 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0711-3422"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC8cahsdT-0210BfFBVr6o2g"
   wikipedia        :
 
 
