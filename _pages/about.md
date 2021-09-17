@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I had joined [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing (DAS) array for seismic monitoring in Chiba, Japan. 
+I had joined [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS]()) array for seismic monitoring in Chiba, Japan. 
 
-In the past, I had been working for [Gundih CCS Pilot Project](https://www.cifor.org/knowledge/slide/12523/) on rock physics analysis, time-lapse seismic with NORSAR, and geomechanical modeling for CCS monitoring. This project is coordinated by [ITB](https://ccs-coe.fttm.itb.ac.id/) in partnership with SKK Migas, Pertamina EP, and ADB. I had the opportunity to extend this project when working with a team of researchers in FGI in Tokyo, Japan. I had publications on CCS in 2 international conferences. 
+In the past, I had been working for [Gundih CCS Pilot Project]() on rock physics analysis, time-lapse seismic with NORSAR, and geomechanical modeling for CCS monitoring. This project is coordinated by [ITB](https://ccs-coe.fttm.itb.ac.id/) in partnership with SKK Migas, Pertamina EP, and ADB. I had the opportunity to extend this project when working with a team of researchers in FGI in Tokyo, Japan. I had publications on CCS in 2 international conferences. 
 
-I led a team of 4 students to participate in the Minus CO2 Challenge organized by Equinor ASA and EAGE in London where we worked on seismic interpretation for a zero-net CO2 emission Plan of Development (PoD) in Norne Field, North Sea. Our team successfully achieved as 9 Global Best Team. 
+I led a team of 4 students to participate in the [Minus CO2 Challenge]() organized by Equinor ASA and EAGE in London where we worked on seismic interpretation for a zero-net CO2 emission Plan of Development (PoD) in Norne Field, North Sea. Our team successfully achieved as 9 Global Best Team. 
 
-When in college, I was honored to receive 2 prestigious campus awards for outstanding students consecutively in 2018 and 2019, and also awarded as the Most Outstanding Student in my geophysics department in ITB. I interned in Pertamina EP where I worked on seismic fault interpretation for an EOR waterflooding project in Jirak Field, South Sumatra. 
+When in college, I was honored to receive 2 prestigious campus awards for outstanding students consecutively in 2018 and 2019, and also awarded as the Most Outstanding Student in my geophysics department in ITB. I interned in Pertamina EP where I worked on [seismic fault interpretation]() for an EOR waterflooding project in Jirak Field, South Sumatra. 
 
 Recently, I've been teaching many Python Data Science courses to >1,000 students and professionals in the E&P domain since 2020. These courses were taught in collaboration with Marietta College (Ohio, US) and SPE chapters in Nigeria, Malaysia, UAE, and Indonesia. I have been working on open-source Python programs for geoscience, reservoir engineering, and ML/AI utilizing open field datasets. 
 
