@@ -16,7 +16,7 @@ I led a team of 4 students to participate in the [Minus CO2 Challenge]() organiz
 
 I graduated with a B.Eng. in Geophysical Engineering from Bandung Institute of Technology (ITB) in 2019. When in college, I was honored to receive 2 prestigious campus awards for outstanding students consecutively in 2018 and 2019, and also awarded as the Most Outstanding Student in my geophysics department in ITB. I interned in Pertamina EP where I worked on [seismic fault interpretation]() for an EOR waterflooding project in Jirak Field, South Sumatra. 
 
-Recently, I've been teaching many Python Data Science courses to >1,000 students and professionals in the E&P domain since 2020. These courses were taught in collaboration with Marietta College (Ohio, US) and SPE chapters in Nigeria, Malaysia, UAE, and Indonesia. I have been working on open-source Python programs for geoscience, reservoir engineering, and ML/AI utilizing open field datasets. 
+Recently, I've been teaching many [Python Data Science courses]() to >1,000 students and professionals in the E&P domain since 2020. These courses were taught in collaboration with Marietta College (Ohio, US) and SPE chapters in Nigeria, Malaysia, UAE, and Indonesia. I have been working on open-source Python programs for geoscience, reservoir engineering, and ML/AI utilizing open field datasets. 
 
 <!--
 # Hello
