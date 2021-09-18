@@ -1,13 +1,26 @@
 ---
 title: "Distributed Acoustic Sensing for Seismic Monitoring in Chiba, Japan"
-excerpt: "Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹<br>¹Research Institute of Innovative Technology for the Earth, Kyoto, Japan<br><br>Full DAS optical fiber record of an earthquake occurring in the Bōsō Peninsula in 20 February 2020 at 06:33 UTC+0<br><img src='https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png'>"
+excerpt: "Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹, T. Nakajima¹<br>¹Research Institute of Innovative Technology for the Earth, Kyoto, Japan<br><br>Full DAS optical fiber record of an earthquake occurring in the Bōsō Peninsula in 20 February 2020 at 06:33 UTC+0<br><img src='https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png'>"
 collection: portfolio
 ---
-![image](https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png)
 
-Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹
-
-¹Research Institute of Innovative Technology for the Earth, Kyoto, Japan
+This project was done in RITE during the COVID-19 pandemic of 2021. I was involved in the CO2 Storage Group led by Dr. Ziqiu Xue. In August, I was given the opportunity to [present this research]() in a workshop organized by the Incorporated Research Institutions for Seismology (IRIS) in USA. It was expected that our research could set a new direction for utilizing DAS to monitor seismic activities in Japan. 
 
 Three DAS optical fiber cables were installed down-hole; two cables are straight cables in a 250-meter well and 880-meter well, and one cable is helical in the 250-meter well. Figure below shows the vertical section of our installed cables and Silixa iDAS interrogator in Chiba. Notice there is a difference between cables installed in the 250-meter and 880-meter well. For the straight (STC) and helical cables (HWC) in the 250-meter well, they were installed along the cement (thus denoted as STC250 and HWC250). For the straight cable in the 880-meter well, it was installed behind casing (thus denoted as HWC880).
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133881966-0e7c7244-5160-49d8-a7bb-a5fa13e778cd.png" alt="drawing" width="500"/>
+</p>
+
+With DAS, we recorded continuous seismic records of natural earthquakes. At least, we could identify different wave types in the record as shown below.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133881984-33a34deb-93c0-4c0a-a467-3f665e694ce5.png" alt="drawing" width="500"/>
+</p>
+
+First, we compared the waveform response of each of the three DAS configurations (STC250, HWC250, and HC880) to the natural earthquakes. Shown below are the waveform displays of each DAS. There is a small difference between the straight cables STC250 and BC880, but notice less occurrence of multiples in BC880 as shown by the yellow arrow. The straight cables show stronger and clearer amplitude response but noisier compared to the helical cable HWC250.   
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133882004-3b9ca734-fee6-422e-a17d-8d6c667278ee.png" alt="drawing" width="400"/>
+</p>
 
