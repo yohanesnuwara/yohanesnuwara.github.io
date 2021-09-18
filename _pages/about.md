@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+
+🧭 **4 past projects**
+<br>
+📰 **2 international proceedings**
+<br>
+🎙️ **4 talks**
+<br>
+👨‍🏫 **3 courses taught**
+<br>
+🏆 **6 achievements**
+<br>
+💻 **10+ Python projects**
+<br>
+
 I currently join [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS](https://yohanesnuwara.github.io/portfolio/portfolio-1/)) array for seismic monitoring in Chiba, Japan. 
 
 In the past, I had been working for [Gundih CCS Pilot Project](https://yohanesnuwara.github.io/portfolio/portfolio-2/) on rock physics analysis, time-lapse seismic with NORSAR, and geomechanical modeling for CCS monitoring. This project is coordinated by [ITB]() in partnership with SKK Migas, Pertamina EP, and ADB. I had the opportunity to extend this project when working with a team of researchers in Fukada Geological Institute in Tokyo. I had [conference proceedings]() on CCS in 2 international conferences. 
