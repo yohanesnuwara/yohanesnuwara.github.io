@@ -24,3 +24,20 @@ First, we compared the waveform response of each of the three DAS configurations
 <img src="https://user-images.githubusercontent.com/51282928/133882004-3b9ca734-fee6-422e-a17d-8d6c667278ee.png" alt="drawing" width="400"/>
 </p>
 
+We zoomed in the portion of the records that show P-wave arrival as shown in the two figures below. The noise at near-surface appears in STC250 and BC880 at depth below 50 m. The characteristics of this noise are very strong amplitudes, low frequency, and random. This is likely the noise caused by the strong amplification of ground motion. The HWC250 does not show this noise too much at the same depth. However, notice the amplitude reduction in the HWC250 record between depth of 30 and 80 meter. The cause of this reduction is still unknown. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133892087-79dec62a-b4ef-499e-b022-ba2e8886b940.png" alt="drawing" width="600"/>
+</p>
+
+Next, we implemented automated picking technique to pick P-wave and S-wave arrivals using four methods; Kurtosis, Short-Term Average/Long-Term Average (STA/LTA), Akaike Information Criterion (AIC), and Short-Time Fourier Transform (STFT). In general, we favored STA/LTA method because the computation is speedy. Later we found that Kurtosis and AIC result more peaking values at the arrivals and their ability to distinguish the upgoing and downgoing arrivals although they take longer time to compute. STFT is able to identify P-wave and S-wave arrivals comparably fast because it is based on frequency-based Fourier transform. Shown below are the results of STA/LTA and STFT for automated PS picking.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133892106-f109d92d-ec0a-4a5b-af00-e46a42d85747.png" alt="drawing" width="600"/>
+</p>
+
+We made a waterfall plot of frequency vs. depth with spectral amplitude as color to identify different types of noise in the data. Shown below is the waterfall plot for each DAS. We could identify at least four key frequencies; ~5 Hz is background noise, ~10 and ~15 Hz are the signals (P or S), and ~30 Hz is completion noise. We also found an interesting observation of unique stripe patterns forming acute angle in the f-z plot which exists in shallow part of BC880. Our interpretation is that this noise is likely caused by poorly cemented (completion) part of the well. Therefore, the shallower part of below 400 m appears to be poorly cemented. In addition, there are horizontal stripes which are likely the optical noise. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133892140-c2dad67e-9500-46a2-b89f-cab22584925d.png" alt="drawing" width="600"/>
+</p>
