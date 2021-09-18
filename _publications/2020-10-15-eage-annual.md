@@ -2,7 +2,7 @@
 title: "Integration of Reservoir, Rock Physics, Seismic, and Geomechanical Modelling for CO2 Injection in Carbonate Reef Reservoir"
 collection: publications
 permalink: /publication/2020-10-15-eage-annual
-excerpt: 'This research presents a novel methodology for the integration of multiple geophysical methods (rock physics modeling, time-lapse seismic modeling, and geomechanical analysis) for the purpose of monitoring Carbon Capture and Storage in a carbonate reef reservoir.'
+excerpt: 'This paper presents a novel methodology for the integration of multiple geophysical methods (rock physics modeling, time-lapse seismic modeling, and geomechanical analysis) for the purpose of monitoring Carbon Capture and Storage in a carbonate reef reservoir.'
 date: 2020-10-15
 venue: 'The 82nd EAGE Annual Conference in Amsterdam'
 paperurl: 
