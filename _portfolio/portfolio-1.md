@@ -1,6 +1,6 @@
 ---
 title: "Distributed Acoustic Sensing for Seismic Monitoring in Chiba, Japan"
-excerpt: "Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹<br>¹Research Institute of Innovative Technology for the Earth, Kyoto, Japan<br><img src='https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png'>"
+excerpt: "Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹<br>¹Research Institute of Innovative Technology for the Earth, Kyoto, Japan<br><br>Full DAS optical fiber record of an earthquake occurring in the Bōsō Peninsula in 20 February 2020 at 06:33 UTC+0<br><img src='https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png'>"
 collection: portfolio
 ---
 ![image](https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png)
