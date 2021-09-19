@@ -9,19 +9,19 @@ This project was done in RITE during the COVID-19 pandemic of 2021. I was involv
 Three DAS optical fiber cables were installed down-hole; two cables are straight cables in a 250-meter well and 880-meter well, and one cable is helical in the 250-meter well. Figure below shows the vertical section of our installed cables and Silixa iDAS interrogator in Chiba. Notice there is a difference between cables installed in the 250-meter and 880-meter well. For the straight (STC) and helical cables (HWC) in the 250-meter well, they were installed along the cement (thus denoted as STC250 and HWC250). For the straight cable in the 880-meter well, it was installed behind casing (thus denoted as HWC880).
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51282928/133881966-0e7c7244-5160-49d8-a7bb-a5fa13e778cd.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/51282928/133917561-3dd01572-8bfd-4bcc-b4dd-28dc9d429816.png" alt="drawing" width="500"/>
 </p>
 
 With DAS, we recorded continuous seismic records of natural earthquakes. At least, we could identify different wave types in the record as shown below.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51282928/133881984-33a34deb-93c0-4c0a-a467-3f665e694ce5.png" alt="drawing" width="500"/>
+<img src="https://user-images.githubusercontent.com/51282928/133917640-7fd6d8e7-cbe9-419e-a370-a8308f85a876.png" alt="drawing" width="500"/>
 </p>
 
 First, we compared the waveform response of each of the three DAS configurations (STC250, HWC250, and HC880) to the natural earthquakes. Shown below are the waveform displays of each DAS. There is a small difference between the straight cables STC250 and BC880, but notice less occurrence of multiples in BC880 as shown by the yellow arrow. The straight cables show stronger and clearer amplitude response but noisier compared to the helical cable HWC250.   
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51282928/133882004-3b9ca734-fee6-422e-a17d-8d6c667278ee.png" alt="drawing" width="400"/>
+<img src="https://user-images.githubusercontent.com/51282928/133917570-31478991-a945-46df-810c-27ac0b8a6330.png" alt="drawing" width="400"/>
 </p>
 
 We zoomed in the portion of the records that show P-wave arrival as shown in the two figures below. The noise at near-surface appears in STC250 and BC880 at depth below 50 m. The characteristics of this noise are very strong amplitudes, low frequency, and random. This is likely the noise caused by the strong amplification of ground motion. The HWC250 does not show this noise too much at the same depth. However, notice the amplitude reduction in the HWC250 record between depth of 30 and 80 meter. The cause of this reduction is still unknown. 
