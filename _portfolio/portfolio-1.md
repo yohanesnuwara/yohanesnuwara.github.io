@@ -41,3 +41,9 @@ We made a waterfall plot of frequency vs. depth with spectral amplitude as color
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51282928/133892140-c2dad67e-9500-46a2-b89f-cab22584925d.png" alt="drawing" width="600"/>
 </p>
+
+Finally, we found an interesting observation on the dependence of DAS detectability on azimuth and incidence angle, as shown in the figure below. It is evident that DAS can detect natural earthquakes with magnitude down to 0.8! Interestingly, the 0.8-magnitude record has weaker amplitude of P-wave arrival than larger 1.3 and 1.4-magnitude. When we plotted in the azimuth-incidence angle polar plot and correlated with the map of the Japanese Bōsō Peninsula, the 0.8-magnitude earthquake is located in azimuth near 270 degrees (in Kujukuri) and the larger earthquakes are in azimuth near 0 degree (in Bōsō). The difference in azimuthal dependency is most likely caused by the velocity anisotropy in the subsurface. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133918585-ed873173-8bc4-4c8b-938c-117d06314ffa.png" alt="drawing" width="600"/>
+</p>
