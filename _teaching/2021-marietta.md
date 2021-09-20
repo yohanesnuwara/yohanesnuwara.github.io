@@ -8,7 +8,7 @@ date: 2021-02-20
 location: "Ohio, USA (Virtual)"
 ---
 
-This course consisted of 4 sessions in 1 month; first session about basic Python programming, second session about production data analysis; and third session about exploration data visualization of well-log data, wellbore trajectory, and natural fractures; and fourth session about decline curve analysis and production forecast. This course was held as part of the Spring Internship Program. **Watch on YouTube:** [Session 1](), [Session 2](), [Session 3](), [Session 4]()
+This course consisted of 4 sessions in 1 month; first session about basic Python programming, second session about production data analysis; and third session about exploration data visualization of well-log data, wellbore trajectory, and natural fractures; and fourth session about decline curve analysis and production forecast. This course was held as part of the Spring Internship Program. **Watch on YouTube:** [Session 1](https://youtu.be/pun_03d_i4Q), [Session 2](https://youtu.be/gLHDcwHFN50), [Session 3](https://youtu.be/-BGiI_5CrwQ), [Session 4](https://youtu.be/Fjetnt9Bp6s)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51282928/133960433-2b2b0431-0f88-4951-82ac-ffa99b9d0c17.png" alt="drawing" width="300"/>
