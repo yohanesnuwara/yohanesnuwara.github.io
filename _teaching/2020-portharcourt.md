@@ -8,7 +8,7 @@ date: 2020-11-20
 location: 
 ---
 
-This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. **Watch on YouTube:** [Session 1](), [Session 2](), [Session 3]()
+This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. **Watch on YouTube:** [Session 1](https://youtu.be/hob5Hilj8sM), [Session 2](https://youtu.be/7AoExt4Ju1M), [Session 3](https://youtu.be/8SujEmdoj0U)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51282928/133961349-fc21dd93-7874-4820-bfcb-1a1765eb7dac.jpeg" alt="drawing" width="300"/>
