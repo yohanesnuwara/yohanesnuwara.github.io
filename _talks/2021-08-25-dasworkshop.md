@@ -10,4 +10,4 @@ location: "USA (Virtual)"
 
 [Watch on YouTube](https://youtu.be/ehHnhxN0bRQ)
 
-[Download PDF from SlideShare]()
+[View slides from SlideShare](https://www.slideshare.net/YohanesNuwaraNuwara/how-small-can-you-detect-with-das-a-case-study-in-the-bs-peninsula)
