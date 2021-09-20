@@ -3,12 +3,12 @@ title: "Automating Petroleum Geosciences and Engineering with Python"
 collection: teaching
 type: "Three-day course"
 permalink: /teaching/2020-portharcourt
-venue: "SPE Port Harcourt Section"
+venue: "SPE Port Harcourt Section in Nigeria (Virtual)"
 date: 2020-11-20
-location: "Nigeria (Virtual)"
+location: 
 ---
 
-This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. [Watch Part 1 in YouTube]().
+This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. **Watch in YouTube**: [Session 1](), [Session 2](), [Session 3]().
 
 ## Course materials
 
