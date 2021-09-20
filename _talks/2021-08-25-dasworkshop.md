@@ -8,4 +8,6 @@ date: 2021-08-25
 location: "USA (Virtual)"
 ---
 
+[Watch on YouTube](https://youtu.be/ehHnhxN0bRQ)
+
 [Download PDF from SlideShare]()
