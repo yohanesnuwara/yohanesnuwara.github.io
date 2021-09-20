@@ -12,3 +12,14 @@ Gundih Field is a gas field located in Cepu Block in East Java, Indonesia. As mu
 
 Initially, the plan was to inject CO2 into the shallower Ngrayong sandstone formation from the Jepon-1 well. However, due to well integrity issues (old well from the Dutch East Indies era) and large voids in the formation, the plan was diverted to injecting the CO2 into the deeper Kujung carbonate formation of the Kedung Tuban reef at approximately 3.5-km deep. In 2019, we evaluated the feasibility of 15 MMSCFD of supercritical CO2 injection for 10 years. 
 
+Based on the stratigraphic column shown below, the Kujung carbonate formation is divided into three units. The upper Kujung (Unit 1) formation is aged from the Early Miocene, and the rest (Unit 2 and Unit 3) are Late Oligocene. The Kujung formation is overlaid by the Early Miocene-aged Tuban shale formation and underlain by the Early Oligocene-aged Ngimbang shale formation.  
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133957392-512e4df4-6ce7-41aa-9b56-9e6a40b71ba9.png" alt="drawing" width="200"/>
+</p>
+
+3D seismic data was acquired and post-stack processed in 2001. The seismic volume covered three reefs in Gundih Field carbonate platform, called Kedung Lusi, Randu Blatung, and Kedung Tuban (ordered from the deepest to shallowest reef). Static model of carbonate reef reservoir corresponding to Gundih gas field consisting of facies distribution, porosity, permeability, and water saturation was set up from well logs, seismic interpretation, and inversion, which can be seen in figure below. Reef A, B, and C refer to Kedung Lusi, Randu Blatung, and Kedung Tuban, respectively.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133957587-efb6ba77-b697-4ce4-9fb9-9b8674a8354b.png" alt="drawing" width="600"/>
+</p>
