@@ -15,8 +15,8 @@ This paper discusses our proposed methodology that we (Dr. [Kazuo Nakayama](http
 <img src="https://user-images.githubusercontent.com/51282928/133871543-acf1d8ef-4617-4c93-b0f1-40922e28c3a3.png" alt="drawing" width="500"/>
 </p>
 
-[View the presentation recording]()
+[Download abstract here](https://www.researchgate.net/publication/352794854_Seal_Capacity_Evaluation_of_CO2_Storage_in_Carbonate_Reef_Reservoirs_using_Equivalent_Grain_Size_Method)
 
-[Download paper here](https://www.researchgate.net/publication/352794854_Seal_Capacity_Evaluation_of_CO2_Storage_in_Carbonate_Reef_Reservoirs_using_Equivalent_Grain_Size_Method)
+[View the presentation slides](https://www.slideshare.net/YohanesNuwaraNuwara/equivalent-grain-size-method-for-sealing-capacity-assessment-in-ccs)
 
 **Cite as:** Nuwara. Y., K. Nakayama, K. Augusta (2021) Seal Capacity Evaluation of CO2 Storage in Carbonate Reef Reservoirs using Equivalent Grain Size Method. *1st EAGEWorkshop on Faults in Groundwater, CO2, and Hydrocarbon in Asia Pacific Proceeding*.
