@@ -15,7 +15,7 @@ Initially, the plan was to inject CO2 into the shallower Ngrayong sandstone form
 Based on the stratigraphic column shown below, the Kujung carbonate formation is divided into three units. The upper Kujung (Unit 1) formation is aged from the Early Miocene, and the rest (Unit 2 and Unit 3) are Late Oligocene. The Kujung formation is overlaid by the Early Miocene-aged Tuban shale formation and underlain by the Early Oligocene-aged Ngimbang shale formation.  
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51282928/133957392-512e4df4-6ce7-41aa-9b56-9e6a40b71ba9.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/51282928/133957392-512e4df4-6ce7-41aa-9b56-9e6a40b71ba9.png" alt="drawing" width="250"/>
 </p>
 
 3D seismic data was acquired and post-stack processed in 2001. The seismic volume covered three reefs in Gundih Field carbonate platform, called Kedung Lusi, Randu Blatung, and Kedung Tuban (ordered from the deepest to shallowest reef). Static model of carbonate reef reservoir corresponding to Gundih gas field consisting of facies distribution, porosity, permeability, and water saturation was set up from well logs, seismic interpretation, and inversion, which can be seen in figure below. Reef A, B, and C refer to Kedung Lusi, Randu Blatung, and Kedung Tuban, respectively.
@@ -23,3 +23,10 @@ Based on the stratigraphic column shown below, the Kujung carbonate formation is
 <p align="center">
 <img src="https://user-images.githubusercontent.com/51282928/133957587-efb6ba77-b697-4ce4-9fb9-9b8674a8354b.png" alt="drawing" width="600"/>
 </p>
+
+The injection will take place in the water leg zone at the bottom of the carbonate reef reservoir, below the gas cap zone with 71% methane composition in the Kedung Tuban reef. While the CO2 pushes the water, it is kept under the Tuban shale as the seal rock. The expansion of CO2 drives gas in the gas cap zone and hopefully increases the production. The original reservoir pressure and the reservoir temperature are 273 bar and 158°C. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133957849-a803aceb-484e-4cef-9aa4-092dc28543cb.png" alt="drawing" width="600"/>
+</p>
+
