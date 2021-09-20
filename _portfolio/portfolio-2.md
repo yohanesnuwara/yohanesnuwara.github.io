@@ -5,3 +5,10 @@ collection: portfolio
 ---
 
 Gundih Field is a gas field located in Cepu Block in East Java, Indonesia. As much as 70 MMSCFD of gas has been produced from the Kujung carbonate formation since 2001. The gas has 21% of CO2 composition, therefore as much as 15 MMSCFD of CO2 is also produced. In 2012, Gundih CCS Pilot Project was formed to carry out a pilot operation to inject the CO2 into the subsurface. 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133955908-9e43ccd8-2ac1-4a07-b5ba-523d5299b784.png" alt="drawing" width="300"/>
+</p>
+
+Initially, the plan was to inject CO2 into the shallower Ngrayong sandstone formation from the Jepon-1 well. However, due to well integrity issues (old well from the Dutch East Indies era) and large voids in the formation, the plan was diverted to injecting the CO2 into the deeper Kujung carbonate formation of the Kedung Tuban reef at approximately 3.5-km deep. In 2019, we evaluated the feasibility of 15 MMSCFD of supercritical CO2 injection for 10 years. 
+
