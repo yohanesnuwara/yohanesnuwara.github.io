@@ -8,13 +8,7 @@ date: 2020-11-20
 location: "Nigeria (Virtual)"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course.
 
-Heading 1
-======
+## Course outline
 
-Heading 2
-======
-
-Heading 3
-======
