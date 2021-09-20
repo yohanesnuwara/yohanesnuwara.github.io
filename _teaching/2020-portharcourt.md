@@ -1,7 +1,7 @@
 ---
 title: "Automating Petroleum Geosciences and Engineering with Python"
 collection: teaching
-type: "Three-day workshop"
+type: "Three-day course"
 permalink: /teaching/2020-portharcourt
 venue: "SPE Port Harcourt Section"
 date: 2020-11-20
