@@ -10,6 +10,12 @@ location:
 
 This course consisted of 3 sessions in 1 month; first session about basic Python programming and well-log analysis, second session about material balance analysis; and third session about well-test analysis. There were also coding assignments after this course. **Watch on YouTube:** [Session 1](), [Session 2](), [Session 3]()
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/51282928/133961349-fc21dd93-7874-4820-bfcb-1a1765eb7dac.jpeg" alt="drawing" width="300"/>
+<br>
+  <it>Course Poster</it>
+</p>
+
 ## Course Materials
 
 |Session|Topic|Source code|Assignment|Solution
