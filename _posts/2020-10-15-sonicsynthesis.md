@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Prediction of P-Sonic Log in the Volve Oil Field using Machine Learning'
+date: 2020-10-15
+permalink: /posts/2020/10/sonicsynthesis/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Data Pre-processing
+  - Gradient Boosting
+  - geoscience
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
