@@ -12,7 +12,7 @@ In unconventional oilfield, fracturing is the only way to extract the oil from t
 
 In this work, an open-source dataset from SPE was used. The dataset consists of records from 53 wells consisting of reservoir temperature, pressure, water saturation, gas specific gravity, and perforation geometry. Feature selection using statistical R-test was done to reduce from 25 to only 13 useful features. Next, Decision Tree model was used as regressor. To handle with small dataset, Leave-One-Out Cross-Validation (LOOCV) was used as a strategy to avoid model overfitting. From this LOOCV, two hyperparameters of Decision Tree are determined to achieve the most desirable model. 
 
-The trained model was finally used to predict the number of clusters per stage 
+The trained model was finally used to predict the number of clusters per stage given a mock case of a fracturing company. Modeling based on data-driven approach which is demonstrated in this work makes the fracturing design more efficient. 
 
 ![image](https://user-images.githubusercontent.com/51282928/140768074-1dcf5632-866f-4a15-9e5e-f62d36702c02.png)
 
