@@ -13,7 +13,7 @@ redirect_from:
 <br>
 📰 **2 international proceedings**
 <br>
-🎙️ **4 talks**
+🎙️ **5 talks**
 <br>
 👨‍🏫 **3 courses taught**
 <br>
@@ -22,15 +22,13 @@ redirect_from:
 💻 **10+ Python projects**
 <br>
 
-I currently join [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS](https://yohanesnuwara.github.io/portfolio/portfolio-1/)) array for seismic monitoring in Chiba, Japan. 
+I currently join [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS](https://yohanesnuwara.github.io/portfolio/portfolio-1/)) array for seismic monitoring in Chiba, Japan. Recently, I've been teaching many [Python Data Science courses](https://yohanesnuwara.github.io/teaching/) to >1,000 students and professionals in the E&P domain since 2020. These courses were taught in collaboration with Marietta College (Ohio, US) and SPE chapters in Nigeria, Malaysia, UAE, and Indonesia. I have been working on open-source data science and machine learning works for petroleum geoscience and engineering domains. 
 
 In the past, I had been working for [Gundih CCS Pilot Project](https://yohanesnuwara.github.io/portfolio/portfolio-2/) on rock physics analysis, time-lapse seismic with NORSAR, and geomechanical modeling for CCS monitoring. This project is coordinated by [ITB]() in partnership with SKK Migas, Pertamina EP, and ADB. I had the opportunity to extend this project when working with a team of researchers in Fukada Geological Institute in Tokyo. I had [conference proceedings](https://yohanesnuwara.github.io/publications/) on CCS in 2 international conferences. 
 
 I led a team of 4 students to participate in the [Minus CO2 Challenge](https://yohanesnuwara.github.io/portfolio/portfolio-3/) organized by Equinor ASA and EAGE in London where we worked on seismic interpretation for a zero-net CO2 emission Plan of Development (PoD) in Norne Field, North Sea. Our team successfully achieved as 9 Global Best Team. 
 
 I graduated with a B.Eng. in Geophysical Engineering from Bandung Institute of Technology (ITB) in 2019. When in college, I was honored to receive 2 prestigious campus awards for outstanding students consecutively in 2018 and 2019, and also awarded as the Most Outstanding Student in my geophysics department in ITB. I interned in Pertamina EP where I worked on [seismic fault interpretation](https://yohanesnuwara.github.io/portfolio/portfolio-4/) for an EOR waterflooding project in Jirak Field, South Sumatra. 
-
-Recently, I've been teaching many [Python Data Science courses](https://yohanesnuwara.github.io/teaching/) to >1,000 students and professionals in the E&P domain since 2020. These courses were taught in collaboration with Marietta College (Ohio, US) and SPE chapters in Nigeria, Malaysia, UAE, and Indonesia. I have been working on open-source Python programs for geoscience, reservoir engineering, and ML/AI utilizing open field datasets. 
 
 <!--
 # Hello
