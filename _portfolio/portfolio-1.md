@@ -4,6 +4,8 @@ excerpt: "Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹, T. Nakajima¹<br>
 collection: portfolio
 ---
 
+> 👨‍💻 [**DASLab**](https://github.com/yohanesnuwara/daslab) is an open-source software (written in Python) for digital signal processing and analysis of DAS fiber-optic data that I developed for this research project. 
+
 This project was done in RITE during the COVID-19 pandemic of 2021. I was involved in the CO2 Storage Group led by Dr. Ziqiu Xue. In August, I was given the opportunity to [present this research]() in a workshop organized by the Incorporated Research Institutions for Seismology (IRIS) in USA. It was expected that our research could set a new direction for utilizing DAS to monitor seismic activities in Japan. 
 
 Three DAS optical fiber cables were installed down-hole; two cables are straight cables in a 250-meter well and 880-meter well, and one cable is helical in the 250-meter well. Figure below shows the vertical section of our installed cables and Silixa iDAS interrogator in Chiba. Notice there is a difference between cables installed in the 250-meter and 880-meter well. For the straight (STC) and helical cables (HWC) in the 250-meter well, they were installed along the cement (thus denoted as STC250 and HWC250). For the straight cable in the 880-meter well, it was installed behind casing (thus denoted as HWC880).
