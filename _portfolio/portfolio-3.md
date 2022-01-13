@@ -1,6 +1,6 @@
 ---
 title: "Minus CO2 Challenge: PoD Norne Field, North Sea"
-excerpt: "Seismic interpretation, integrated geophysical monitoring, and seal capacity evaluation for Gundih CCS Pilot Project<br/><img src='/images/500x300.png'>"
+excerpt: "Plan of Development (PoD) study for net-zero CO2 emission development of an oil field<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
