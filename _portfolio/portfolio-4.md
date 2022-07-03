@@ -1,6 +1,6 @@
 ---
 title: "Tree Count for two-month *Eucalyptus pellita* plantation in Riau using YOLOv5 computer vision"
-excerpt: "
+excerpt: "Tree count"
 collection: portfolio
 ---
 
