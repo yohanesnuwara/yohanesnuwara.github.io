@@ -4,6 +4,4 @@ excerpt: "Tree count"
 collection: portfolio
 ---
 
-> 👨‍💻 [**DASLab**](https://github.com/yohanesnuwara/daslab) is an open-source software (written in Python) for digital signal processing and analysis of DAS fiber-optic data that I developed for this research project. 
-
-This project was done in RITE during the COVID-19 pandemic of 2021. I was involved in the CO2 Storage Group led by Dr. Ziqiu Xue. In August, I was given the opportunity to [present this research]() in a workshop organized by the Incorporated Research Institutions for Seismology (IRIS) in USA. It was expected that our research could set a new direction for utilizing DAS to monitor seismic activities in Japan. 
+This project started when Sinarmas Forestry, our sister company, upgraded their remote sensing imaging from fixed-wing to quadcopter drone UAVs, around late 2021. This new quadcopter technology was tested in 3 districts in Riau where the *Eucalyptus pellita* plantations with two-month age are located. My company, Asia Pulp and Paper, had developed tree count models on variety of species and ages (we call it Stratum) based on Faster R-CNN and Mask R-CNN object detection models, mostly on the fixed-wing images. When these models were tested on the new quadcopter images, the accuracy (F1-score) was not so good. 
