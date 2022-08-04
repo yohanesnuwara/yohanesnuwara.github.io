@@ -4,9 +4,9 @@ excerpt: "Closed loop"
 collection: portfolio
 ---
 
-# Augmenting Information Technology for Precision Forestry Automation
-
 ## Relational Database Management System (RDBMS)
+
+This is where inputs and outputs are stored. All metadata about each individual plantation area, called as *Petak*, are stored in a SAP S4/HANA database. Examples of input metadata are captured date of UAV acquisition, stratum (plant species and age), province or district locations, area, land type, and many more. 
 
 ## Computer vision
 
@@ -14,4 +14,4 @@ collection: portfolio
 
 ## Mobile apps
 
-## Dashboard
+## Dashboard Forestry Management Information System (FMIS) 
