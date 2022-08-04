@@ -1,10 +1,10 @@
 ---
-title: "Leveraging Information Technology for Precision Forestry Automation"
+title: "Augmenting Information Technology for Precision Forestry Automation"
 excerpt: "Closed loop"
 collection: portfolio
 ---
 
-# Leveranging Information Technology for Precision Forestry Automation
+# Augmenting Information Technology for Precision Forestry Automation
 
 ## Relational Database Management System (RDBMS)
 
