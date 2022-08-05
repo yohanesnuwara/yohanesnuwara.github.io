@@ -16,7 +16,11 @@ Computer Vision (CV) is the heart of our precision forestry technology. There ar
 
 After an image passes the AutoQC gate, use cases automatically run and start to retrieve metadata from the database about that particular image, for example which *Petak* does the image come from, what stratum (species and age) the *Petak* is, and so on. The stratum metadata triggers the service to pick the relevant CV model since different stratum use different model, for example tree count and weed. The results from the use cases are stored in the FTP server and the output metadata, for example tree stocking percentage, weed percentage, and blankspot percentage are stored in the database. 
 
+Next, each use case triggers alert whenever the percentage threshold is reached, for example, when the *Petak* has high weed percentage of 50% above the acceptable threshold 5% percentage. 
+
 ## Extract, Transform, Load (ETL)
+
+ETL technology plays an important role in processing and storing the metadata from and to the database which the computer vision use cases need to run. For example, the ETL is responsible for file transfer when moving the raw to passed images after AutoQC, and also processing the alert data triggered from the CV use cases that is already stored in the database. 
 
 ## Mobile apps
 Alert
