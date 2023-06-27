@@ -9,13 +9,11 @@ redirect_from:
 ---
 
 
-🧭 **4 past projects**
+🧭 **4 industry projects**
 <br>
-📰 **2 international proceedings**
+📰 **5 journals and proceedings**
 <br>
-🎙️ **5 talks**
-<br>
-👨‍🏫 **3 courses taught**
+🎙️ **10 talks and lectures**
 <br>
 🏆 **6 achievements**
 <br>
