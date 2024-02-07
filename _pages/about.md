@@ -13,8 +13,8 @@ redirect_from:
 I am an independent consultant related to machine learning and computer vision in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
 
 <div style="display: flex; justify-content: center;">
-  <a href="URL1"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/2abea720-9f5c-48ad-b74f-a439b13665ce" alt="Image 1" style="width: 200px; margin-right: 10px;"></a>
-  <a href="URL2"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/2abea720-9f5c-48ad-b74f-a439b13665ce" alt="Image 2" style="width: 200px;"></a>
+  <a href="URL1"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/af0d80f1-f274-4427-a057-eaf841288d1c" alt="Image 1" style="width: 300px; margin-right: 10px;"></a>
+  <a href="URL2"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/12740baa-1f74-4b5c-b5b2-ccf29b202499" alt="Image 2" style="width: 300px;"></a>
 </div>
 
 I developed computer vision models for tree counting and LiDAR mostly in Python and open-source Geographic Information System (GIS) tools such as QGIS. I have experience in operating with large databases in SQL and as a Project Manager, I led a team that developed dashboards for Health, Safety, and Environment (HSE) and waste management using PowerBI for top management in my company.
