@@ -10,7 +10,7 @@ redirect_from:
 
 ![image](https://github.com/yohanesnuwara/starting-computer-vision/assets/51282928/a44204e7-3df2-4424-a241-3a9e58a79a6f)
 
-I am an independent consultant related to machine learning and computer vision in Milan, Italy, while I also lengthen my Master's degree in Business Analytics and Big Data at Politecnico di Milano. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
+I am an independent consultant related to machine learning and computer vision in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
 
 I developed computer vision models for tree counting and LiDAR mostly in Python and open-source Geographic Information System (GIS) tools such as QGIS. I have experience in operating with large databases in SQL and as a Project Manager, I led a team that developed dashboards for Health, Safety, and Environment (HSE) and waste management using PowerBI for top management in my company.
 
