@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who am I?"
+title: "Hi, there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,6 +9,15 @@ redirect_from:
 ---
 
 ![image](https://github.com/yohanesnuwara/starting-computer-vision/assets/51282928/a44204e7-3df2-4424-a241-3a9e58a79a6f)
+
+I am an independent consultant related to machine learning and computer vision in Milan, Italy, while I also lengthen my Master's degree in Business Analytics and Big Data at Politecnico di Milano. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
+
+I developed computer vision models for tree counting and LiDAR mostly in Python and open-source Geographic Information System (GIS) tools such as QGIS. I have experience in operating with large databases in SQL and as a Project Manager, I led a team that developed dashboards for Health, Safety, and Environment (HSE) and waste management using PowerBI for top management in my company.
+
+Outside, I am passionate about tech consulting. I have worked with at least 2 start-up enterprises in the development of computer vision models for orange fruit counting and oil palm fresh fruit bunch counting. I am passionate about education. I delivered industrial capstone training for students with Orbit Future Academy and taught at Marietta College in Ohio. With my passion for research, I have written at least 3 papers in IEEE journal and international conferences. 
+
+<!--
+# Hello
 
 I currently join Asia Pulp and Paper as Expert Data Scientist in computer vision for precision forestry projects. I previously joined [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS](https://yohanesnuwara.github.io/portfolio/portfolio-1/)) array for seismic monitoring in Chiba, Japan. 
 
@@ -20,8 +29,6 @@ I led a team of 4 students to participate in the [Minus CO2 Challenge](https://y
 
 I graduated with a B.Eng. in Geophysical Engineering from Bandung Institute of Technology (ITB) in 2019. When in college, I was honored to receive 2 prestigious campus awards for outstanding students consecutively in 2018 and 2019, and also awarded as the Most Outstanding Student in my geophysics department in ITB. I interned in Pertamina EP where I worked on [seismic fault interpretation](https://yohanesnuwara.github.io/portfolio/portfolio-4/) for an EOR waterflooding project in Jirak Field, South Sumatra. 
 
-<!--
-# Hello
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
