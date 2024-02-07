@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-🧭 **4 industry projects**
-<br>
-📰 **5 journals and proceedings**
-<br>
-🎙️ **10 talks and lectures**
-<br>
-🏆 **6 achievements**
-<br>
-💻 **10+ Python projects**
-<br>
+![image](https://github.com/yohanesnuwara/starting-computer-vision/assets/51282928/a44204e7-3df2-4424-a241-3a9e58a79a6f)
 
 I currently join Asia Pulp and Paper as Expert Data Scientist in computer vision for precision forestry projects. I previously joined [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS](https://yohanesnuwara.github.io/portfolio/portfolio-1/)) array for seismic monitoring in Chiba, Japan. 
 
