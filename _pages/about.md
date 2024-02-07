@@ -17,6 +17,11 @@ I am an independent consultant related to machine learning and computer vision i
   <a href="URL2"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/12740baa-1f74-4b5c-b5b2-ccf29b202499" alt="Image 2" style="width: 300px;"></a>
 </div>
 
+<div style="display: flex; justify-content: center;">
+  <a href="URL1"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/a2e7201d-05d6-4672-afe9-b41ca9a30adc" alt="Image 1" style="width: 300px; margin-right: 10px;"></a>
+  <a href="URL2"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/f15515dc-1eb3-4aa1-ae14-6239e95b9e6e" alt="Image 2" style="width: 300px;"></a>
+</div>
+
 I developed computer vision models for tree counting and LiDAR mostly in Python and open-source Geographic Information System (GIS) tools such as QGIS. I have experience in operating with large databases in SQL and as a Project Manager, I led a team that developed dashboards for Health, Safety, and Environment (HSE) and waste management using PowerBI for top management in my company.
 
 Outside, I am passionate about tech consulting. I have worked with at least 2 start-up enterprises in the development of computer vision models for orange fruit counting and oil palm fresh fruit bunch counting. I am passionate about education. I delivered industrial capstone training for students with Orbit Future Academy and taught at Marietta College in Ohio. With my passion for research, I have written at least 3 papers in IEEE journal and international conferences. 
