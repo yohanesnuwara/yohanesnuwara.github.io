@@ -10,7 +10,7 @@ redirect_from:
 
 ![image](https://github.com/yohanesnuwara/starting-computer-vision/assets/51282928/a44204e7-3df2-4424-a241-3a9e58a79a6f)
 
-I am an independent consultant related to machine learning and computer vision in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
+I am a data scientist and an engineer. I am doing independent consultant related to machine learning and computer vision in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
 
 <div style="display: flex; justify-content: center;">
   <a href="URL1"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/af0d80f1-f274-4427-a057-eaf841288d1c" alt="Image 1" style="width: 300px; margin-right: 10px;"></a>
