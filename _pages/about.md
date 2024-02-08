@@ -13,7 +13,7 @@ redirect_from:
 I am a data scientist and an engineer. I am doing independent consultant related to machine learning and computer vision while pursuing my M.Sc in Business Analytics and Big Data at Politecnico di Milano in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
 
 <div style="display: flex; justify-content: center;">
-  <a href="URL1"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/af0d80f1-f274-4427-a057-eaf841288d1c" alt="Image 1" style="width: 300px; margin-right: 10px;"></a>
+  <a href="URL1"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/16d0db5f-de63-4b96-8612-ae9e35ba3529" alt="Image 1" style="width: 300px; margin-right: 10px;"></a>
   <a href="URL2"><img src="https://github.com/yohanesnuwara/volve-machine-learning/assets/51282928/12740baa-1f74-4b5c-b5b2-ccf29b202499" alt="Image 2" style="width: 300px;"></a>
 </div>
 
