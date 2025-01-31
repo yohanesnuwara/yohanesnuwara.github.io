@@ -9,14 +9,16 @@ paperurl: https://ieeexplore.ieee.org/document/10143418
 citation: 
 ---
 
-This paper presents a novel methodology for the integration of multiple geophysical methods (rock physics modeling, time-lapse seismic modeling, and geomechanical analysis) for the purpose of monitoring Carbon Capture and Storage in a carbonate reef reservoir. Case study presented is in Gundih Field, East Java, Indonesia. 
+This work proposed a different approach of predicting compressional (P) and shear (S) wave sonic log response for petroleum subsurface characterization using genetic programming approach that produces a set of explainable mathematical equations related to different logs as features
+
+In this research project, I collaborated with 2 professors from Curtin University Sarawak, Malaysia (Dr. Wong Wei Kitt and Dr. Filbert H. Juwono). 
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51282928/133871991-2bafd02a-cfeb-462b-8050-1ae695b102b0.png" alt="drawing" width="500"/>
+<img src="https://github.com/user-attachments/assets/fd8c92a4-9959-4eba-9414-00aca86b0a48" alt="drawing" width="500"/>
 </p>
 
-[Download abstract here](https://www.researchgate.net/publication/348537739_Integration_of_Reservoir_Rock_Physics_Seismic_and_Geomechanical_Modelling_for_CO2_Injection_in_Carbonate_Reef_Reservoir)
+[Access the paper here, IEEE Xplore](https://ieeexplore.ieee.org/document/10143418)
 
-[View the presentation slides]()
+[Downloadable manuscript](https://www.researchgate.net/publication/371266169_Synthesizing_Missing_Travel_Time_of_P-Wave_and_S-Wave_A_Two-stage_Evolutionary_Modelling_Approach)
 
-**Cite as**: Nuwara. Y. (2020) Integration of Reservoir, Rock Physics, Seismic, and Geomechanical Modelling for CO2 Injection in Carbonate Reef Reservoir. *82nd EAGE Annual Conference & Exhibition Proceeding*. Vol. 2020 p. 1-5.
+**Cite as**: W. K. Wong, F. H. Juwono, Y. Nuwara and J. T. H. Kong, "Synthesizing Missing Travel Time of P-Wave and S-Wave: A Two-Stage Evolutionary Modeling Approach," in IEEE Sensors Journal, vol. 23, no. 14, pp. 15867-15877, 15 July, 2023, doi: 10.1109/JSEN.2023.3280708
