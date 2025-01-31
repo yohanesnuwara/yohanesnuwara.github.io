@@ -3,7 +3,7 @@ title: "Synthesizing Missing Travel Time of P-Wave and S-Wave: A Two-stage Evolu
 collection: publications
 permalink: /publication/2023-05-10_IEEEJournal
 excerpt: 'This work proposed a different approach of predicting compressional (P) and shear (S) wave sonic log response for petroleum subsurface characterization using genetic programming approach that produces a set of explainable mathematical equations related to different logs as features'
-date: 2023-06-02
+date: 2023-01-12
 venue: 'IEEE Sensors Journal Volume 23 Issue 14'
 paperurl: https://ieeexplore.ieee.org/document/10143418
 citation: 
@@ -14,11 +14,11 @@ This work proposed a different approach of predicting compressional (P) and shea
 In this research project, I collaborated with 2 professors from Curtin University Sarawak, Malaysia (Dr. Wong Wei Kitt and Dr. Filbert H. Juwono). 
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/fd8c92a4-9959-4eba-9414-00aca86b0a48" alt="drawing" width="500"/>
+<img src="https://github.com/user-attachments/assets/7fdc66ac-102e-4656-ab64-5e33dbf76549" alt="drawing" width="500"/>
 </p>
 
-[Access the paper here, IEEE Xplore](https://ieeexplore.ieee.org/document/10143418)
+[Access the paper here, IEEE Xplore](https://ieeexplore.ieee.org/document/10010668)
 
-[Downloadable manuscript](https://www.researchgate.net/publication/371266169_Synthesizing_Missing_Travel_Time_of_P-Wave_and_S-Wave_A_Two-stage_Evolutionary_Modelling_Approach)
+[Downloadable manuscript](https://www.researchgate.net/publication/367100832_Modern_Computer_Vision_for_Oil_Palm_Tree_Health_Surveillance_using_YOLOv5)
 
-**Cite as**: W. K. Wong, F. H. Juwono, Y. Nuwara and J. T. H. Kong, "Synthesizing Missing Travel Time of P-Wave and S-Wave: A Two-Stage Evolutionary Modeling Approach," in IEEE Sensors Journal, vol. 23, no. 14, pp. 15867-15877, 15 July, 2023, doi: 10.1109/JSEN.2023.3280708
+**Cite as**: Y. Nuwara, W. K. Wong and F. H. Juwono, "Modern Computer Vision for Oil Palm Tree Health Surveillance using YOLOv5," 2022 International Conference on Green Energy, Computing and Sustainable Technology (GECOST), Miri Sarawak, Malaysia, 2022, pp. 404-409, doi: 10.1109/GECOST55694.2022.10010668.
