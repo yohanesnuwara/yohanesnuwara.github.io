@@ -12,7 +12,15 @@ redirect_from:
 
 I am working as a senior data scientist in PRORES AS, in the beautiful city of Trondheim, Norway. I have a Bachelor's in Geophysical Engineering (2019) and a Master's in Business Analytics and Big Data from Politecnico di Milano (2024). I have been working for 5 years in different industries of oil and gas, forestry, and pulp and paper manufacturing. 
 
+2024-      : Senior data scientist (PRORES AS, formerly Weatherford Petroleum Consultants AS)
+2022-2023  : Expert data scientist (Asia Pulp and Paper Sinarmas)
+2020-2022  : Geophysical engineer (OYO Corporation & Research Institute for Technology of the Earth)
+
+## Consulting and projects
+
 As a side job, I have my own consulting small business but have several exciting projects. I am a currently tech advisor at Berjaya Inovasi Global, an IT software enterprise, and was the Chief AI at Agrari, an agribusiness startup, both based in Indonesia. 
+
+## Research interests
 
 I had several publications in distinguished journals and conferences. My latest paper on "Improving Object Detection Model on Low-Quality Images using Histogram Matching and Model Stacking" was recently published in Lecture Notes in Computer Science (LNCS) Springer in January 2025. I also collaborated with 2 professors from Curtin University in Malaysia where we wrote several papers, such as this published in IEEE Journal and another one. 
 
