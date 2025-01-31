@@ -12,9 +12,11 @@ redirect_from:
 
 I am working as a senior data scientist in PRORES AS, in the beautiful city of Trondheim, Norway. I have a Bachelor's in Geophysical Engineering (2019) and a Master's in Business Analytics and Big Data from Politecnico di Milano (2024). I have been working for 5 years in different industries of oil and gas, forestry, and pulp and paper manufacturing. 
 
-2024-      : Senior data scientist (PRORES AS, formerly Weatherford Petroleum Consultants AS)
-2022-2023  : Expert data scientist (Asia Pulp and Paper Sinarmas)
-2020-2022  : Geophysical engineer (OYO Corporation & Research Institute for Technology of the Earth)
+**2024-**      : Senior data scientist (PRORES AS, formerly Weatherford Petroleum Consultants AS)
+
+**2022-2023**  : Expert data scientist (Asia Pulp and Paper Sinarmas)
+
+**2020-2022**  : Geophysical engineer (OYO Corporation & Research Institute for Technology of the Earth)
 
 ## Consulting and projects
 
