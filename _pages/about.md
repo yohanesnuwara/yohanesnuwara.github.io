@@ -10,6 +10,14 @@ redirect_from:
 
 ![image](https://github.com/yohanesnuwara/starting-computer-vision/assets/51282928/a44204e7-3df2-4424-a241-3a9e58a79a6f)
 
+I am working as a senior data scientist in PRORES AS, in the beautiful city of Trondheim, Norway. I have a Bachelor's in Geophysical Engineering (2019) and a Master's in Business Analytics and Big Data from Politecnico di Milano (2024). I have been working for 5 years in different industries of oil and gas, forestry, and pulp and paper manufacturing. 
+
+As a side job, I have my own consulting small business but have several exciting projects. I am a currently tech advisor at Berjaya Inovasi Global, an IT software enterprise, and was the Chief AI at Agrari, an agribusiness startup, both based in Indonesia. 
+
+I had several publications in distinguished journals and conferences. My latest paper on "Improving Object Detection Model on Low-Quality Images using Histogram Matching and Model Stacking" was recently published in Lecture Notes in Computer Science (LNCS) Springer in January 2025. I also collaborated with 2 professors from Curtin University in Malaysia where we wrote several papers, such as this published in IEEE Journal and another one. 
+
+<!--
+
 I am a data scientist and an engineer. I am doing independent consultant related to machine learning and computer vision while pursuing my M.Sc in Business Analytics and Big Data at Politecnico di Milano in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
 
 <div style="display: flex; justify-content: center;">
@@ -26,7 +34,6 @@ I developed computer vision models for tree counting and LiDAR mostly in Python 
 
 Outside, I am passionate about tech consulting. I have worked with at least 2 start-up enterprises in the development of computer vision models for orange fruit counting and oil palm fresh fruit bunch counting. I am passionate about education. I delivered industrial capstone training for students with Orbit Future Academy and taught at Marietta College in Ohio. With my passion for research, I have written at least 3 papers in IEEE journal and international conferences. 
 
-<!--
 # Hello
 
 I currently join Asia Pulp and Paper as Expert Data Scientist in computer vision for precision forestry projects. I previously joined [OYO Corporation](https://www.oyo.co.jp/english/) and [Research Institute of Innovative Technology for the Earth](https://www.rite.or.jp/en/) in Japan as a research geophysicist in Distributed Acoustic Sensing ([DAS](https://yohanesnuwara.github.io/portfolio/portfolio-1/)) array for seismic monitoring in Chiba, Japan. 
