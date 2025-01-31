@@ -3,7 +3,7 @@ title: "Synthesizing Missing Travel Time of P-Wave and S-Wave: A Two-stage Evolu
 collection: publications
 permalink: /publication/2023-05-10_IEEEJournal
 excerpt: 'This work proposed a different approach of predicting compressional (P) and shear (S) wave sonic log response for petroleum subsurface characterization using genetic programming approach that produces a set of explainable mathematical equations related to different logs as features'
-date: 2023-01-12
+date: 2023-06-02
 venue: 'IEEE Sensors Journal Volume 23 Issue 14'
 paperurl: https://ieeexplore.ieee.org/document/10143418
 citation: 
