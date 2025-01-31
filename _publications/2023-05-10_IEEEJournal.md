@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8dfd506b-e21f-4402-b9a3-0d7fc6b9fe4b)---
+---
 title: "Synthesizing Missing Travel Time of P-Wave and S-Wave: A Two-stage Evolutionary Modelling Approach"
 collection: publications
 permalink: /publication/2023-05-10_IEEEJournal
