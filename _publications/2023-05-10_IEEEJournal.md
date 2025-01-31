@@ -1,11 +1,11 @@
 ---
 title: "Synthesizing Missing Travel Time of P-Wave and S-Wave: A Two-stage Evolutionary Modelling Approach"
 collection: publications
-permalink: /publication/2020-10-15-eage-annual
-excerpt: 'This paper presents a novel methodology for the integration of multiple geophysical methods (rock physics modeling, time-lapse seismic modeling, and geomechanical analysis) for the purpose of monitoring Carbon Capture and Storage in a carbonate reef reservoir.'
-date: 2020-10-15
-venue: 'The 82nd EAGE Annual Conference in Amsterdam'
-paperurl: 
+permalink: /publication/2023-05-10_IEEEJournal
+excerpt: 'This work proposed a different approach of predicting compressional (P) and shear (S) wave sonic log response for petroleum subsurface characterization using genetic programming approach that produces a set of explainable mathematical equations related to different logs as features'
+date: 2023-06-02
+venue: 'IEEE Sensors Journal Volume 23 Issue 14'
+paperurl: https://ieeexplore.ieee.org/document/10143418
 citation: 
 ---
 
