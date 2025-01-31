@@ -9,14 +9,14 @@ paperurl: https://ieeexplore.ieee.org/document/10010668
 citation: 
 ---
 
-This paper presents a novel methodology for the integration of multiple geophysical methods (rock physics modeling, time-lapse seismic modeling, and geomechanical analysis) for the purpose of monitoring Carbon Capture and Storage in a carbonate reef reservoir. Case study presented is in Gundih Field, East Java, Indonesia. 
+xxxxxxx
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/51282928/133871991-2bafd02a-cfeb-462b-8050-1ae695b102b0.png" alt="drawing" width="500"/>
+<img src="https://github.com/user-attachments/assets/7fdc66ac-102e-4656-ab64-5e33dbf76549" alt="drawing" width="500"/>
 </p>
 
-[Download abstract here](https://www.researchgate.net/publication/348537739_Integration_of_Reservoir_Rock_Physics_Seismic_and_Geomechanical_Modelling_for_CO2_Injection_in_Carbonate_Reef_Reservoir)
+[Access the paper here, IEEE Xplore](https://ieeexplore.ieee.org/document/10010668)
 
-[View the presentation slides]()
+[Downloadable manuscript](https://www.researchgate.net/publication/367100832_Modern_Computer_Vision_for_Oil_Palm_Tree_Health_Surveillance_using_YOLOv5)
 
-**Cite as**: Nuwara. Y. (2020) Integration of Reservoir, Rock Physics, Seismic, and Geomechanical Modelling for CO2 Injection in Carbonate Reef Reservoir. *82nd EAGE Annual Conference & Exhibition Proceeding*. Vol. 2020 p. 1-5.
+**Cite as**: Y. Nuwara, W. K. Wong and F. H. Juwono, "Modern Computer Vision for Oil Palm Tree Health Surveillance using YOLOv5," 2022 International Conference on Green Energy, Computing and Sustainable Technology (GECOST), Miri Sarawak, Malaysia, 2022, pp. 404-409, doi: 10.1109/GECOST55694.2022.10010668.
