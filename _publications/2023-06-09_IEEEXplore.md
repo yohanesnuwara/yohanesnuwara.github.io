@@ -3,13 +3,13 @@ title: "Modern Computer Vision for Oil Palm Tree Health Surveillance using YOLOv
 collection: publications
 permalink: /publication/2023-06-09_IEEEXplore
 excerpt: 'This work proposed YOLOv5 object detection model to improve the aerial surveillance on palm oil (*Elaeis guinensis*) health using Unmanned Aerial Vehicles (UAVs)'
-date: 2020-10-15
+date: 2023-01-12
 venue: 'Green Energy Computing and Sustainable Technology (GECOST) International Conference'
 paperurl: https://ieeexplore.ieee.org/document/10010668
 citation: 
 ---
 
-xxxxxxx
+This work proposed YOLOv5 object detection model to improve the aerial surveillance on palm oil (*Elaeis guinensis*) health using Unmanned Aerial Vehicles (UAVs)
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/7fdc66ac-102e-4656-ab64-5e33dbf76549" alt="drawing" width="500"/>
