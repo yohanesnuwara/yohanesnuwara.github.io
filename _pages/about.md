@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi, there!"
-excerpt: "About me"
+excerpt: "About Yohanes"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,22 @@ redirect_from:
 ---
 
 ![image](https://github.com/yohanesnuwara/starting-computer-vision/assets/51282928/a44204e7-3df2-4424-a241-3a9e58a79a6f)
+
+My name is Yohanes Nuwara. I'm a software engineer at [**whitson**](https://whitson.com/) 👨‍💻 in Trondheim, Norway
+
+Previously I've worked as a senior data scientist for 5 years with Prores, Asia Pulp and Paper, and OYO Corporation and involved in several projects related to AI, like LiDAR for forest inventory and core data interpretation in oil and gas. I also led team of AI engineers in an agribusiness startup and small IT company in Indonesia. 
+
+I specialize in computer vision and LLMs, but have experience with the entire AI stacks.
+
+I like to consider myself an entrepeneurial self-driven software– and AI engineer with an eye for passion for creating and pushing out of the boundary of innovations.
+
+I like to write, present, and publish papers. My [latest paper](https://link.springer.com/chapter/10.1007/978-3-031-80507-3_15) was recently published in Lecture Notes in Computer Science (LNCS) Springer.
+
+Although I'm originally from Indonesia, I graduated with a Master's in Big Data from Politecnico di Milano in Italy and am currently working in Norway.
+
+Please don't be a stranger, reach me by [email](ign.nuwara97@gmail.com) 📬 any time.
+
+<!--
 
 I am working as a senior data scientist in PRORES AS, in the beautiful city of Trondheim, Norway. I have a Bachelor's in Geophysical Engineering (2019) and a Master's in Business Analytics and Big Data from Politecnico di Milano (2024). I have been working for 5 years in different industries of oil and gas, forestry, and pulp and paper manufacturing. 
 
@@ -25,8 +41,6 @@ As a side job, I have my own consulting small business but have several exciting
 ## Research interests
 
 I had several publications in distinguished journals and conferences. My latest paper on "Improving Object Detection Model on Low-Quality Images using Histogram Matching and Model Stacking" was recently published in Lecture Notes in Computer Science (LNCS) Springer in January 2025. I also collaborated with 2 professors from Curtin University in Malaysia where we wrote several papers, such as this published in IEEE Journal and another one. 
-
-<!--
 
 I am a data scientist and an engineer. I am doing independent consultant related to machine learning and computer vision while pursuing my M.Sc in Business Analytics and Big Data at Politecnico di Milano in Milan, Italy. I was an experienced professional with 2 years of experience working as an Expert Data Scientist (Computer Vision) at Asia Pulp and Paper in Jakarta, Indonesia, one of the largest pulp and paper manufacturing companies in the world. 
 
