@@ -1,6 +1,6 @@
 ---
 title: "Geophysical Monitoring for Gundih CCS Pilot Project"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='https://user-images.githubusercontent.com/51282928/133957849-a803aceb-484e-4cef-9aa4-092dc28543cb.png'>"
 collection: portfolio
 ---
 
