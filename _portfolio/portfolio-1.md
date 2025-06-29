@@ -1,11 +1,16 @@
 ---
-title: "Fiber-Optic Distributed Acoustic Sensing for Seismic Monitoring in Chiba, Japan"
-excerpt: "Y. Nuwara¹, T. Miyoshi¹, Z. Xue¹, T. Hashimoto¹, T. Nakajima¹<br>¹Research Institute of Innovative Technology for the Earth, Kyoto, Japan<br><br>Full DAS optical fiber record of an earthquake occurring in the Bōsō Peninsula in 20 February 2020 at 06:33 UTC+0<br><img src='https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png'>"
+title: "Distributed Acoustic Sensing (DAS) for Seismic Monitoring in Chiba, Japan"
+excerpt: "Analysis and modelling of seismic response of DAS array deployed in depleted oil well in Chiba Prefecture in Japan. Earthquake motions were captured using straight cable (STC) and helically wound cable (HWC), each demonstrating unique seismic profiles. In this project with Research Institute of Technology for the Earth (RITE), I proposed statistical analysis using Kurtosis to identify P and S-wave arrivals. <br><br>Full DAS optical fiber record of an earthquake occurring in the Bōsō Peninsula in 20 February 2020 at 06:33 UTC+0<br><img src='https://user-images.githubusercontent.com/51282928/133879799-2d7a276d-7e0a-42b0-b4e9-8593cc79374c.png'>"
 collection: portfolio
 ---
 
-> 👨‍💻 [**DASLab**](https://github.com/yohanesnuwara/daslab) is an open-source software (written in Python) for digital signal processing and analysis of DAS fiber-optic data that I developed for this research project. 
+Analysis and modelling of seismic response of DAS array deployed in depleted oil well in Chiba Prefecture in Japan. Earthquake motions were captured using straight cable (STC) and helically wound cable (HWC), each demonstrating unique seismic profiles. In this project with Research Institute of Technology for the Earth (RITE), I proposed statistical analysis using Kurtosis to identify P and S-wave arrivals. 
 
+I presented this project in the SAGE/GAGE Workshop in DAS organized by Virginia Tech University and Incorporated Research Institutions for Seismology (IRIS) on August 2020. This project sets a new direction for utilizing DAS to monitor seismic activities in Japan. The slides can be accessed [here](https://www.slideshare.net/slideshow/how-small-can-you-detect-with-das-a-case-study-in-the-bs-peninsula/250233857)
+
+[**DASLab**](https://github.com/yohanesnuwara/daslab) is an open-source software (written in Python) for digital signal processing and analysis of DAS fiber-optic data that I developed for this research project. 
+
+<!--
 This project was done in RITE during the COVID-19 pandemic of 2021. I was involved in the CO2 Storage Group led by Dr. Ziqiu Xue. In August, I was given the opportunity to [present this research]() in a workshop organized by the Incorporated Research Institutions for Seismology (IRIS) in USA. It was expected that our research could set a new direction for utilizing DAS to monitor seismic activities in Japan. 
 
 Three DAS optical fiber cables were installed down-hole; two cables are straight cables in a 250-meter well and 880-meter well, and one cable is helical in the 250-meter well. Figure below shows the vertical section of our installed cables and Silixa iDAS interrogator in Chiba. Notice there is a difference between cables installed in the 250-meter and 880-meter well. For the straight (STC) and helical cables (HWC) in the 250-meter well, they were installed along the cement (thus denoted as STC250 and HWC250). For the straight cable in the 880-meter well, it was installed behind casing (thus denoted as HWC880).
